@@ -1,0 +1,13 @@
+D:\vb.netTestPro\Barcode_vb_sn\Barcode_vb\bin\Debug\Barcode_vb.exe.config
+D:\vb.netTestPro\Barcode_vb_sn\Barcode_vb\bin\Debug\Barcode_vb.exe
+D:\vb.netTestPro\Barcode_vb_sn\Barcode_vb\bin\Debug\Barcode_vb.pdb
+D:\vb.netTestPro\Barcode_vb_sn\Barcode_vb\bin\Debug\Barcode_vb.xml
+D:\vb.netTestPro\Barcode_vb_sn\Barcode_vb\obj\Debug\Barcode_vb.vbproj.AssemblyReference.cache
+D:\vb.netTestPro\Barcode_vb_sn\Barcode_vb\obj\Debug\Barcode_vb.vbproj.SuggestedBindingRedirects.cache
+D:\vb.netTestPro\Barcode_vb_sn\Barcode_vb\obj\Debug\Barcode_vb.Form1.resources
+D:\vb.netTestPro\Barcode_vb_sn\Barcode_vb\obj\Debug\Barcode_vb.Resources.resources
+D:\vb.netTestPro\Barcode_vb_sn\Barcode_vb\obj\Debug\Barcode_vb.vbproj.GenerateResource.cache
+D:\vb.netTestPro\Barcode_vb_sn\Barcode_vb\obj\Debug\Barcode_vb.vbproj.CoreCompileInputs.cache
+D:\vb.netTestPro\Barcode_vb_sn\Barcode_vb\obj\Debug\Barcode_vb.exe
+D:\vb.netTestPro\Barcode_vb_sn\Barcode_vb\obj\Debug\Barcode_vb.xml
+D:\vb.netTestPro\Barcode_vb_sn\Barcode_vb\obj\Debug\Barcode_vb.pdb
