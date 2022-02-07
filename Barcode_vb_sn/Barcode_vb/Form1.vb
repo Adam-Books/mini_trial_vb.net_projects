@@ -35,7 +35,7 @@
     Private Sub search_TextBox1_KeyDown(sender As Object, e As KeyEventArgs) Handles search_TextBox1.KeyDown
         If e.KeyCode = Keys.Enter Then
             Button3_Click(sender, e)
-            search_TextBox1.Text = ""
+            Me.search_TextBox1.Text = ""
 
         End If
     End Sub
